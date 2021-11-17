@@ -1,0 +1,58 @@
+{
+    "isEmpty": "lütfen bos bırakmayınız",
+    "onboard": {
+        "page1": {
+            "title": "make it good",
+            "des": "You are not alone .You have unique ability go to anther world "
+        },
+        "page2": {
+            "title": "iyi yap",
+            "des": "You are not alone .You have unique ability go to anther world"
+        },
+        "page3": {
+            "title": "make it good",
+            "des": "You are not alone .You have unique ability go to anther world"
+        }
+    },
+    "register": {
+        "title": "Register Page",
+        "nameAndSurname": "Ad Soyad",
+        "isEmpty": "lütfen bos bırakmayınız",
+        "phone": "Tel",
+        "email": "Email",
+        "password": "Şifre",
+        "registerButton": "Kayit ol"
+    },
+    "login": {
+        "title": "Login Sayfası",
+        "textButton": "Hesabın yok mu? Kayıt Ol"
+    },
+    "homeview": {
+        "add_post": "Post Ekle",
+        "posts": "Postlarım",
+        "myprofile": "Profilim"
+    },
+    "my_profile": {
+        "appar_title": "Ayarlar",
+        "theme_change": "Tema Degistirme",
+        "theme_information": "koyu veya aydınlık modları deneyebilirsiniz",
+        "language_change": "Dil Degistir",
+        "language_information": "herhangi bir dil sec",
+        "update_information": "Bilgilerimi Guncelle",
+        "user_about_title": "Kullanıcı Ayarları",
+        "quit_app": "Çıkış Yap"
+    },
+    "addpostview": {
+        "post_title": "Baslik",
+        "post_body": "Aciklama",
+        "postButton": "Gonderi Olustur"
+    },
+    "user_update": {
+        "update": "Guncelle"
+    },
+    "tabbar": {
+        "addPost": "Post Ekle",
+        "Mypost": "Postlarım",
+        "Profile": "Profil"
+    }
+}

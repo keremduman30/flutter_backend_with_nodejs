@@ -1,0 +1,59 @@
+{
+    "onboard": {
+        "page1": {
+            "title": "make it good",
+            "des": "You are not alone .You have unique ability go to anther world "
+        },
+        "page2": {
+            "title": "make it good",
+            "des": "You are not alone .You have unique ability go to anther world"
+        },
+        "page3": {
+            "title": "make it good",
+            "des": "You are not alone .You have unique ability go to anther world"
+        }
+    },
+    "register": {
+        "title": "Register Page",
+        "nameAndSurname": "Name And Surname",
+        "isEmpty": "Dont Empty Please",
+        "phone": "phone",
+        "email": "email",
+        "password": "password",
+        "registerButton": "register"
+        
+    },
+    "login":{
+        "title":"Login Page",
+        "textButton":"dont have you a account ? be register"
+    },
+    "homeview":{
+        "add_post":"Add POST",
+        "posts":"Posts",
+        "myprofile":"My profile"
+    },
+    "my_profile":{
+        "appar_title":"Settings",
+        "theme_change":"Theme Change",
+        "theme_information":"you can change theme ",
+        "language_change":"Language Change",
+        "language_information":"you can language theme",
+        "update_information":"Update Your Information",
+        "user_about_title":"User App Settings",
+        "quit_app":"Quit App"
+
+    },
+    "addpostview":{
+        "post_title":"Post Title",
+        "post_body":"Post body",
+        "postButton":"Create Post"
+    },
+    "user_update":{
+        "update":"Update"
+    },
+    "tabbar":{
+        "addPost":"Add Post",
+        "Mypost":"My post list",
+        "Profile":"profile"
+    }
+}
