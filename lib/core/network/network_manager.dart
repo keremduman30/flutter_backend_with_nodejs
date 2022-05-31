@@ -11,7 +11,6 @@ class NetworkManager {
   //http://10.192.1.192:3000
   //10.192.1.192
   //kyk yurt 10.52.169.54
-  //benim tel 192.168.43.238
   //10.192.1.192 //kutuphanevoid setContext(BuildContext context) => this.context = context;
   void init() {}
   final baseUrl = "http://192.168.1.51:3000";
@@ -20,3 +19,4 @@ class NetworkManager {
     dio = Dio(BaseOptions(baseUrl: baseUrl));
   }
 }
+
